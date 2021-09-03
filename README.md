@@ -1,2 +1,1 @@
 # pizza
-Favorite pizza toppings
